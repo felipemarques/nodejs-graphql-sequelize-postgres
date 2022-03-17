@@ -7,6 +7,7 @@
 # how to run this repo
 
 `$ docker-compose up -d`
+
 `$ yarn run sequelize-cli db:migrate`
 
 # Register User
